@@ -1,0 +1,16 @@
+{
+  "name": "export-page-string",
+  "id": "1428202895240499332",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": ["inspect"],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": ["figma","dev"],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
